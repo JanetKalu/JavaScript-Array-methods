@@ -1,8 +1,9 @@
 //forEach() method
 const fruits = ['apple', 'orange', 'guava', 'grape'];
-const allFruits = fruits.forEach((fruit) => {
+fruits.forEach((fruit) => {
   console.log(fruit);
 });
+
 
 //reverse() method
 const employees = ['Davis', 'Zappa', 'Mary', 'Adams', 'Bright'];
